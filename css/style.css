@@ -21,7 +21,6 @@
 
 /* mapas */
 /*mixin*/
-/*extend*/
 .button-nav {
   display: inline-block;
   font-family: poppins;
@@ -102,9 +101,6 @@
 .coments-header {
   padding-bottom: 40px; }
 
-.hover-sugerencias {
-  text-decoration: none; }
-
 @media (max-width: 945px) {
   .bannet-text {
     font-size: 35px;
@@ -119,6 +115,16 @@
   text-align: center; }
   .link-hover-color:hover {
     color: #667934 !important; }
+
+.footer-fntsize {
+  font-size: 12px; }
+
+.footer-size {
+  padding: 20px; }
+
+.social-icon {
+  height: 25px;
+  width: 25px; }
 
 .container-fade {
   position: relative;
